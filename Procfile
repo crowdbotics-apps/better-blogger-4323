@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT better_blogger_4323.wsgi:application
